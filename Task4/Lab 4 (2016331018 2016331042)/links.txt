@@ -1,0 +1,13 @@
+https://www.techiedelight.com/measure-elapsed-time-execution-time-java/
+https://www.baeldung.com/reading-file-in-java
+
+
+For AES
+https://www.baeldung.com/java-aes-encryption-decryption
+
+For RSA
+https://gist.github.com/nielsutrecht/855f3bef0cf559d8d23e94e2aecd4ede
+
+For SHA256
+https://howtodoinjava.com/java/io/sha-md5-file-checksum-hash/
+
